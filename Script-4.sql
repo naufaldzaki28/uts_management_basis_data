@@ -1,0 +1,1 @@
+CREATE TABLE SALAM.tes_data_engineer (id INT);
